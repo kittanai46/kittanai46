@@ -1,9 +1,9 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake and Pacman Contribution Graphs
 
 on:
   schedule:
     - cron: "0 2 * * *"   # รันทุกวันตอนตี 2 (เวลาไทยประมาณ 9 โมงเช้า)
-  workflow_dispatch:        # สามารถกดรันเองได้ด้วย
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,14 +12,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate pacman graph
+      # 🐍 Generate Snake graph
+      - name: Generate snake graph
         uses: Platane/snk@v3
+        with:
+          github_user_name: kittanai46
+          outputs: |
+            ./output/snake-contribution-graph.svg
+            ./output/snake-contribution-graph-dark.svg?palette=github-dark
+
+      # 🟡 Generate Pac-Man graph
+      - name: Generate pacman graph
+        uses: Platane/snk-pacman@v3
         with:
           github_user_name: kittanai46
           outputs: |
             ./output/pacman-contribution-graph.svg
             ./output/pacman-contribution-graph-dark.svg?palette=github-dark
 
+      # 📤 Push both to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
