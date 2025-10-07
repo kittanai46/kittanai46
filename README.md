@@ -105,6 +105,8 @@
   <a href="https://pub.dev/my-packages" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PUB.DEV&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kittanai46&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 <div align="left" style="display:flex; justify-content:center; align-items:center; gap:8px;">
 <span style="position: relative; top: -1px;">
     <strong>  ✉️ Contact me via Gmail :</strong> 
@@ -127,3 +129,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kittanai46&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+
