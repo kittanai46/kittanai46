@@ -4,7 +4,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&theme=cobalt"  
   />
 </div>
-<h2 align="center" style="margin-top:-10px;">
+<h2 align="center" style="margin-top:-1px;">
   Hi 👋! My name is Kittanai and I'm a Flutter Developer from Thailand
 </h2>
 
