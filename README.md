@@ -111,17 +111,6 @@
   </span>
 </div>
 <div align="center">
-
-  <!-- Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/snake-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/snake-contribution-graph.svg">
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/kittanai46/kittanai46/output/snake-contribution-graph.svg" width="100%">
-  </picture>
-
-  <br/><br/>
-
-  <!-- Pac-Man -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph.svg">
