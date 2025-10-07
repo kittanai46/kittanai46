@@ -41,10 +41,6 @@
   alt="Top Languages"
 />
 
-
-
-###
-
 <img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNxbDhtbjA0dGE1ZjRnYmdjMGx2YTJ5YWQ1MDU1M3E1MndhMjZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzu5DA3RXa4kF1L8ca/giphy.gif" />
 
 </p>
@@ -105,7 +101,6 @@
   <a href="https://pub.dev/my-packages" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PUB.DEV&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kittanai46&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <div align="left" style="display:flex; justify-content:center; align-items:center; gap:8px;">
 <span style="position: relative; top: -1px;">
@@ -124,10 +119,18 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
-
 <br/><br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kittanai46&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+<br/><br/>
 
-
+<div align="center">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ0aWZpMzgwYmNuOXE1dTgyN21yajJqNXZ1ejg0ZW83cnZqbzRkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YEHKuYCI50li0/giphy.gif" 
+    height="160" 
+    alt="cool animation gif" 
+  />
+  <br/><br/>
+<img src="https://komarev.com/ghpvc/?username=kittanai46&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
