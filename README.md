@@ -31,16 +31,16 @@
 </h3>
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kittanai46&show_icons=true&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&border_color=333333&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=kittanai46&show_icons=true&title_color=00ffcc&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&border_color=333333&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=3600" 
     height="160" 
     alt="GitHub Stats" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kittanai46&layout=compact&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_color=333333&hide_border=false&card_width=320" 
-    height="160" 
-    alt="Top Languages" 
-  />
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=kittanai46&layout=compact&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_color=333333&hide_border=false&card_width=320&langs_count=5&cache_seconds=3600"
+  height="160"
+  alt="Top Languages"
+/>
+
 
 
 ###
