@@ -106,7 +106,7 @@
   </a>
 <div align="left" style="display:flex; justify-content:center; align-items:center; gap:8px;">
 <span style="position: relative; top: -1px;">
-    <strong>✉️ Contact me via Gmail :</strong> 
+    <strong>  ✉️ Contact me via Gmail :</strong> 
     <a href="mailto:K.kittanai@gmail.com">K.kittanai@gmail.com</a>
   </span>
 </div>
