@@ -1,4 +1,3 @@
-
 <div style="margin:0; padding:0;">
   <img 
     width="100%" 
