@@ -110,4 +110,8 @@
     <a href="mailto:K.kittanai@gmail.com">K.kittanai@gmail.com</a>
   </span>
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kittanai46/kittanai46/output/pacman-contribution-graph.svg">
+</picture>
